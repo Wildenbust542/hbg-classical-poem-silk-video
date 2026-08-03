@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">HBG Classical Poem Silk Video</title>
+  <desc id="desc">A Chinese ink landscape banner for the classical poem video Agent Skill.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f5efdf"/>
+      <stop offset="0.52" stop-color="#e8e0cc"/>
+      <stop offset="1" stop-color="#d8dfd3"/>
+    </linearGradient>
+    <linearGradient id="lake" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9ab5b0" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#426f71" stop-opacity="0.36"/>
+    </linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="16"/></filter>
+    <filter id="ink"><feTurbulence baseFrequency="0.7" numOctaves="2" seed="8" result="noise"/><feDisplacementMap in="SourceGraphic" in2="noise" scale="2"/></filter>
+  </defs>
+  <rect width="1600" height="520" rx="28" fill="url(#paper)"/>
+  <circle cx="1340" cy="112" r="62" fill="#d6b77a" opacity="0.62"/>
+  <path d="M0 310 C180 205 315 260 470 174 C610 96 720 194 845 159 C1014 111 1080 254 1240 205 C1400 155 1505 215 1600 175 L1600 520 L0 520Z" fill="#38595a" opacity="0.13" filter="url(#soft)"/>
+  <path d="M0 355 C170 220 350 335 535 220 C675 133 780 277 940 209 C1080 150 1245 305 1395 226 C1475 185 1545 204 1600 230 L1600 520 L0 520Z" fill="#324b4c" opacity="0.23" filter="url(#ink)"/>
+  <path d="M0 390 C240 345 440 405 690 350 C920 300 1110 401 1600 330 L1600 520 L0 520Z" fill="url(#lake)"/>
+  <g fill="none" stroke="#274e50" stroke-width="3" opacity="0.35">
+    <path d="M30 426 C280 398 470 444 690 414"/>
+    <path d="M790 405 C1050 375 1310 420 1560 384"/>
+    <path d="M1120 448 C1265 432 1410 456 1540 438"/>
+  </g>
+  <g transform="translate(105,76)">
+    <rect x="0" y="0" width="8" height="330" rx="4" fill="#934936" opacity="0.85"/>
+    <text x="43" y="92" fill="#243d3e" font-family="PingFang SC,Noto Serif CJK SC,serif" font-size="64" font-weight="700">古诗词，中国画，真正的画中动态</text>
+    <text x="43" y="164" fill="#934936" font-family="Avenir Next,Arial,sans-serif" font-size="31" font-weight="700" letter-spacing="4">HBG CLASSICAL POEM SILK VIDEO</text>
+    <text x="43" y="224" fill="#435554" font-family="PingFang SC,Noto Sans CJK SC,sans-serif" font-size="29">ImageGen 静帧 · Docker I2V · 毛笔字逐字题写 · 原环境声 + BGM · 最终 MP4 QA</text>
+    <text x="43" y="284" fill="#5d6966" font-family="PingFang SC,Noto Sans CJK SC,sans-serif" font-size="24">Agent Skill for vertical Chinese-art poetry videos</text>
+  </g>
+  <g transform="translate(1440,358)">
+    <rect width="82" height="82" rx="8" fill="#a64f3b" opacity="0.9"/>
+    <path d="M17 20h48M17 41h48M17 62h48M20 17v48M41 17v48M62 17v48" stroke="#efe6d1" stroke-width="3" opacity="0.85"/>
+  </g>
+</svg>
